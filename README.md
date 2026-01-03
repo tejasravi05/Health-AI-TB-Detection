@@ -1,4 +1,4 @@
-# 🩻 Tuberculosis Detection from Chest X-Rays using CNN
+# 🩻 Health AI - Tuberculosis Detection from Chest X-Rays using CNN
 
 This project uses a Convolutional Neural Network (CNN) model to classify chest X-ray images as either **Tuberculosis-positive** or **Normal**. The model is trained on a publicly available dataset and developed using Google Colab with Keras and TensorFlow.
 
